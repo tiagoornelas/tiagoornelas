@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagoornelas
-- 👀 I’m interested in web development, automation and solutions for legaltechs.
-- 🌱 I’m currently learning web development full-stack.
+- 👀 I’m a frontend developer interested in web dev and data science.
+- 🌱 I’m currently learning backend web development full-stack and data science.
 - 💞️ I’m looking to collaborate on high impact projects.
 - 📫 Reach me through <a href='https://tiagoornelas.com'>LinkedIn.</a>
