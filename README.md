@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on high impact projects and lawtechs.
 - 📫 Reach me through <a href='https://tiagoornelas.com'>LinkedIn and </a href="mailto: advtiagoornelas@gmail.com">email</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoornelas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoornelas)](https://tiagoornelas.com)
 
