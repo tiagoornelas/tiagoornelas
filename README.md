@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tiago!
-- 📔 I used to practice law but now I am a problem solver/software developer.
-- 🌱 I’m currently studying at <a href='https://www.betrybe.com/'>Trybe</a> and working at <a href='https://rubeus.com.br/'>Rubeus</a>.
-- 💞️ I’m looking to collaborate on high impact projects.
+- 📔 I used to practice law but now I am a software developer.
+- 🌱 I’m currently studying at <a href='https://www.betrybe.com/'>Trybe</a> and working at <a href='https://aurum.com.br/'>Aurum</a>.
 - 📫 Reach me through <a href='https://tiagoornelas.com'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a>
 
 <div>
