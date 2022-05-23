@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago!
 - 📔 I used to practice law but now I am a software developer.
-- 🌱 I’m currently working as a Front End Developer at <a href='https://aurum.com.br/'>Aurum</a>.
+- 🌱 I’m currently working as a Front-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.
 - 📫 Reach me through <a href='https://tiagoornelas.com'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a>
 
 <div>
