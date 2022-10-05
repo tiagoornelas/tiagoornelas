@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Tiago!
-- 📔 I used to practice law but now I am a software developer.
-- 🌱 I’m currently working as a Front-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.
-- 📫 Reach me through <a href='https://tiagoornelas.com'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a>
+- 📔 I am a full stack software developer.
+- 🌱 I’m currently working as a React Front-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.
+- 📚 I’m currently getting my bachelor degree on Data Science and I.A.
+- 📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a>
 
 <div>
   <a href="https://github.com/tiagoornelas">
@@ -22,5 +23,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
