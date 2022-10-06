@@ -2,6 +2,7 @@
 - 📔 I am a full stack software developer.
 - 🌱 I’m currently working as a React Front-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.
 - 📚 I’m currently getting my bachelor degree on Data Science and I.A.
+- 💡 I'm currently learning <a href='https://remix.run/'>Remix</a>.
 - 📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a>
 
 <div>
