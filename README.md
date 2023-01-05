@@ -11,11 +11,6 @@
      <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a></p>
   </div>
   <br/>
-  <div>
-     <a href="https://github.com/tiagoornelas">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=3b74b9"/>
-  </div>
-  <br/>
   <br/>
   <p>
      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
