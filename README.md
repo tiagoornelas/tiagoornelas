@@ -5,9 +5,8 @@
 <div align="center">
   <div>
      <p>📔 I am a full stack software developer.</p>
-     <p>🌱 I’m currently working as a Front-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.</p>
+     <p>🌱 I’m currently working as a Back-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.</p>
      <p>📚 I’m currently getting my bachelor degree on Data Science and I.A.</p>
-     <p>💡 I'm currently learning <a href='https://remix.run/'>Remix</a>.</p>
      <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a></p>
   </div>
   <br/>
