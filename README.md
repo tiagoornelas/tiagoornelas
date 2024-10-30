@@ -6,7 +6,7 @@
   <div>
      <p>📔 I am a full stack software developer working full time since Jan 22.</p>
      <p>🌱 I’m currently working as a Back-End Developer at <a href='https://aurum.com.br/'>Aurum</a>.</p>
-     <p>📚 I’m currently getting my bachelor degree on Data Science and I.A.</p>
+     <p>📚 I’m currently getting my bachelor degree on Data Science and AI</p>
      <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a></p>
   </div>
   <br/>
