@@ -30,9 +30,7 @@
      <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-FEC619?logo=elasticsearch&logoColor=white&style=flat" />
   </p>
   <p>
-     <img alt="Amazon" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" />
      <img alt="GCloud" src="https://img.shields.io/badge/Google Cloud-4285F4?logo=google+cloud&logoColor=white&style=flat" />
-     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat" />
-     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" />
+     <img alt="Amazon" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon+aws&logoColor=white&style=flat" />
   </p>
 </div>
