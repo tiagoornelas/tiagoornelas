@@ -4,10 +4,10 @@
 <br/>
 <div align="center">
   <div>
-     <p>📔 Full Stack Software Developer & AI Engineer.</p>
-     <p>🎓 Graduated in Data Science & AI | Specialist in Database Administration.</p>
-     <p>⚖️ Background: LL.B. in Law & Postgraduate in Corporate Law.</p>
-     <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto:advtiagoornelas@gmail.com">e-mail</a>.</p>
+     <p>🚀 <b>AI Engineer & Full Stack Developer</b></p>
+     <p>📊 <b>Tech & Data:</b> Data Science & AI (B.Sc.) | Database Administration (Postgrad)</p>
+     <p>⚖️ <b>Legal Background:</b> Attorney & LL.B. (Brazilian Law) | Corporate Law (Postgrad)</p>
+     <p>📫 Reach me on <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> or via <a href="mailto:advtiagoornelas@gmail.com">e-mail</a>.</p>
    </div>
   <br/>
    <p>
