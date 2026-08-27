@@ -4,10 +4,11 @@
 <br/>
 <div align="center">
   <div>
-     <p>📔 I am a full stack software developer and AI engineer.</p>
-     <p>📚 I’m currently getting my bachelor degree on Data Science and AI and postgraduate degree on Database Administration</p>
-     <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto: advtiagoornelas@gmail.com">e-mail</a></p>
-  </div>
+     <p>📔 Full Stack Software Developer & AI Engineer.</p>
+     <p>🎓 Graduated in Data Science & AI | Specialist in Database Administration.</p>
+     <p>⚖️ Background: LL.B. in Law & Postgraduate in Corporate Law.</p>
+     <p>📫 Reach me through <a href='https://www.linkedin.com/in/tiagoornelasadv/'>LinkedIn</a> and <a href="mailto:advtiagoornelas@gmail.com">e-mail</a>.</p>
+   </div>
   <br/>
    <p>
      <img alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white&style=flat" />
@@ -25,7 +26,6 @@
   </p>  
   <p>
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
-     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
      <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-FEC619?logo=elasticsearch&logoColor=white&style=flat" />
   </p>
